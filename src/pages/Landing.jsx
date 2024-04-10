@@ -52,7 +52,7 @@ function Landing() {
        
           <Link to="/Sign_up" >
               <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0  pb-[20%] md:pb-[1%] ">
-                  <div  className="inline-flex justify-center items-center  py-5 w-[200px] md:w-[450px] border-2 border-black md:text-[32px] text-[14px] font-medium text-center text-dark rounded-none bg-[#e7ee06] t-[30%]  "  style={{ fontFamily: 'PressStart2P' }} >
+                  <div  className="inline-flex justify-center items-center  py-5 w-[200px] md:w-[450px] border-2 border-black md:text-[32px] text-[18px] font-medium text-center text-black rounded-none bg-[#e7ee06] t-[30%]  "  style={{ fontFamily: 'PressStart2P' }} >
                       Press start
                       
                   </div>

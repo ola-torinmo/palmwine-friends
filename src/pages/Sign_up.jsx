@@ -82,7 +82,7 @@ function Sign_up() {
           </div>
           
           <div className="md:ml-[70%] ml-[82%] md:mt-[25%] mt-[] ">
-            <img src={line3} alt='' className=" md:w-[120px] md:h-[90px] h-[60px] w-[60px] md:mt-[30%] mt-[40%]  "/>
+            <img src={line3} alt='' className=" md:w-[120px] md:h-[90px] h-[60px] w-[60px] md:mt-[30%] mt-[40%] se:mt-[0%]  "/>
           </div>
         </div>
           
@@ -137,7 +137,7 @@ function Sign_up() {
                   
 
                   <div className="flex flex-col  sm:flex-row sm:justify-center sm:space-y-0 pb-[5%]">
-                    <button className="inline-flex justify-center items-center mt-[3%] md:py-5 py-3 md:w-[450px] w-[200px] border-2 border-black md:text-[32px] text-[18px] font-medium text-center text-black rounded-none bg-[#e7ee06] md:mb-[0%] md:ml-[0%] mb-[1%] ml-[27%]  " type='submit'   style={{ fontFamily: 'PressStart2P' }} >
+                    <button className="inline-flex justify-center items-center mt-[8%] se:mt-[-1] md:py-5 py-3 md:w-[450px] w-[200px] border-2 border-black md:text-[32px] text-[18px] font-medium text-center text-black rounded-none bg-[#e7ee06] md:mb-[0%] md:ml-[0%] mb-[1%] ml-[12%]  " type='submit'   style={{ fontFamily: 'PressStart2P' }} >
                         Sign up
                         
                     </button >
